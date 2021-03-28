@@ -43,7 +43,7 @@ export default function UserInput({getAll, getCurrent}) {
 
   return (
     <div className="postal-div">
-      <h1>Weather</h1> <br />
+      <h1>Weather App</h1> <br />
       <div className="input-div">
         <input
         value={input}
